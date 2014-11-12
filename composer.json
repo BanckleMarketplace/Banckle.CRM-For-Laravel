@@ -1,0 +1,22 @@
+{
+    "name": "banckle/crm-laravel",
+    "description": "This is a Laravel Package to use Banckle.CRM SDK for PHP in Laravel applications quickly and easily",
+"keywords": ["Banckle", "Cloud", "SDK", "Laravel", "CRM"],
+"homepage": "https://github.com/BanckleMarketplace/Banckle.CRM-For-Laravel",
+    "authors": [
+        {
+            "name": "Masood Anwer",
+            "email": "masood.anwer@aspose.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Banckle\\Crm": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
